@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.exe
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.dll
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\bin\Debug\netcoreapp3.1\olausuario.pdb
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\obj\Debug\netcoreapp3.1\olausuario.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\obj\Debug\netcoreapp3.1\olausuario.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\obj\Debug\netcoreapp3.1\olausuario.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\obj\Debug\netcoreapp3.1\olausuario.dll
+C:\Users\Maria Luiza\Documents\Luiza\olausuario\olausuario\obj\Debug\netcoreapp3.1\olausuario.pdb
